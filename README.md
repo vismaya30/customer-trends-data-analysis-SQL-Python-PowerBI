@@ -26,8 +26,7 @@ A final business report and presentation summarize the key findings and recommen
 | Programming           | Python (Pandas, NumPy, Matplotlib/Seaborn) |
 | Databases             | PostgreSQL / MySQL / SQL Server            |
 | Business Intelligence | Power BI                                   |
-| Presentation          | Gamma                                      |
-| Documentation         | Markdown, PDF Report                       |
+
 
 ---
 
@@ -35,21 +34,21 @@ A final business report and presentation summarize the key findings and recommen
 
 ### **1️⃣ Data Loading & Exploration (Python)**
 
-* Import dataset using `pandas`
-* Check structure: `df.info()` and `df.describe()`
-* Initial visualizations to understand distributions and patterns
+* Imported dataset using `pandas`
+* Checked structure: `df.info()` and `df.describe()`
+* Generated visualizations to understand distributions and patterns
 
 ### **2️⃣ Data Cleaning & Preparation**
 
-* Rename columns to snake_case for consistency
-* Handle missing values (median/mode imputation)
-* Remove redundant features
-* Create new features (e.g., age groups, purchase frequency)
+* Renamed columns to snake_case for consistency
+* Handled missing values
+* Removed redundant features
+* Created new features (e.g- age groups, purchase frequency)
 
 ### **3️⃣ SQL Database Integration**
 
-* Load cleaned data into PostgreSQL/MySQL/SQL Server
-* Run analytical and business-focused SQL queries, such as:
+* Loaded cleaned data into MySQL Server
+* Ran analytical and business-focused SQL queries, such as:
 
   * Revenue by customer demographics
   * Top products by purchase amount and ratings
@@ -58,24 +57,10 @@ A final business report and presentation summarize the key findings and recommen
 
 ### **4️⃣ Interactive Dashboard (Power BI)**
 
-* Build visual dashboards to display KPIs and trends
+* Built visual dashboards to display KPIs and trends
 * Filters added for customer segments, seasons, and categories
 * Visuals include: revenue breakdowns, top products, subscriptions, loyalty metrics
 
-### **5️⃣ Insights & Reporting**
-
-* Develop a PDF report summarizing the findings
-* Highlight actionable business recommendations
-* Present the story using **Gamma slides**
-
----
-
-## **Dashboard Preview**
-
-> Add a screenshot of your Power BI dashboard here
-> *(Drag an image here in GitHub or paste a link to report)*
-
----
 
 ## **Results & Key Insights**
 
@@ -86,7 +71,3 @@ A final business report and presentation summarize the key findings and recommen
 * Most revenue comes from the 25–40 age segment, suggesting targeted marketing opportunities
 
 
-
-
-
-Would you like a **shorter version** for job applications or LinkedIn?
