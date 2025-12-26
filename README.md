@@ -1,10 +1,3 @@
-# customer-trends-data-analysis-SQL-Python-PowerBI
-Data analysis project to representing customer behavior  analysis using python, sql and power BI
-Below is a **professional, recruiter-friendly README template** based on your project workflow.
-You can copy-paste directly into GitHub — formatting is Markdown-compatible.
-
----
-
 # **Customer Shopping Behavior Analysis — Data Analytics Project**
 
 ## **Overview**
